@@ -16,6 +16,7 @@ This project is a simple **RESTful API** built using **Node.js**, **Express**, a
 
 ## 📁 Project Structure
 
+<pre> ```plaintext
 NODE JS TUTORIAL/
 ├── models/
 │ └── User.js           # Mongoose schema for User
@@ -25,7 +26,7 @@ NODE JS TUTORIAL/
 ├── package.json        # Project metadata and dependencies
 ├── .gitignore          # Ignored files (e.g., node_modules)
 └── README.md           # Project documentation
-
+``` </pre>
 -----
 
 ## 🛠️ Tech Stack
