@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 
 const mongoURL = "mongodb://localhost:27017";
 const dbName = "ourDB";
-3333333
 const connectDB = async () => {
     try {
         await mongoose.connect(`${mongoURL}/${dbName}`);
